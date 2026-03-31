@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NeptuneMWR", "NeptuneMWR\NeptuneMWR.vcxproj", "{E8519FA6-4D12-4E9D-AEBB-065562FD6C9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ORBIS = Debug|ORBIS
+		Release|ORBIS = Release|ORBIS
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8519FA6-4D12-4E9D-AEBB-065562FD6C9C}.Debug|ORBIS.ActiveCfg = Debug|ORBIS
+		{E8519FA6-4D12-4E9D-AEBB-065562FD6C9C}.Debug|ORBIS.Build.0 = Debug|ORBIS
+		{E8519FA6-4D12-4E9D-AEBB-065562FD6C9C}.Release|ORBIS.ActiveCfg = Release|ORBIS
+		{E8519FA6-4D12-4E9D-AEBB-065562FD6C9C}.Release|ORBIS.Build.0 = Release|ORBIS
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {548093CB-E18B-44B4-9165-0B4782C7767F}
+	EndGlobalSection
+EndGlobal
