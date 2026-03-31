@@ -16,7 +16,7 @@ This is a base project for people who know what they’re doing. It’s not plug
 - Foundation for your own work  
 
 ## Why release it
-It was already being shared privately, so there’s no point in keeping it locked down.
+It was already being shared privately and people being weird about it.
 
 
 Utils:
